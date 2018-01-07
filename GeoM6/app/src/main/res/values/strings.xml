@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoM 6</string>
+    <string name="my_website">https://letssmileagain.wordpress.com/</string>
+
+    <string name="action_settings">Settings - Enable GPS</string>
+    <string name="action_quit">Quit</string>
+    <string name="action_link">Go to our website</string>
+    <string name="chooser_title">Open with</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="cancel_location_enable_request">Looks you are secure now!</string>
+    <string name="setting_location_enable_request">You\'re beautiful!</string>
+</resources>

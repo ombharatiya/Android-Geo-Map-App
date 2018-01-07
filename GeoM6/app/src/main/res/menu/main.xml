@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        />
+    <item android:id="@+id/action_link"
+        android:title="@string/action_link"
+        android:orderInCategory="100"
+        android:icon="@drawable/attachment"
+        android:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/action_quit"
+        android:title="@string/action_quit"
+        android:orderInCategory="100"
+        android:icon="@drawable/map_paper"
+        />
+</menu>
+
+    <!--xmlns:app="http://schemas.android.com/apk/res/res-auto"-->
+    <!--app:showAsAction="never"-->
+
+    <!--android:showAsAction="ifRoom"-->
